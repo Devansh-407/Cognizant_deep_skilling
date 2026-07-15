@@ -4,7 +4,7 @@
 
 - Name: Devansh Gupta
 - Program: Cognizant Digital Nurture 5.0
-- Track: Java Full Stack Engineer (React).
+- Track: Java Full Stack Engineer (React)
 
 ---
 
